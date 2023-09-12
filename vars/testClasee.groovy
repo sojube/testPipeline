@@ -1,3 +1,3 @@
 def call(){
-  sh "variable in shared library"
+  echo 'variable in shared library'
 }
