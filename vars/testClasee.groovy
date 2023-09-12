@@ -1,3 +1,3 @@
 def call(){
-  sh 
+  sh "variable in shared library"
 }
