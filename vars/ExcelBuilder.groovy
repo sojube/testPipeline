@@ -102,3 +102,7 @@ class ExcelBuilder {
         }
     }
 }
+
+def callClass(){
+ def ExcelB = new ExcelBuilder()
+}
